@@ -102,6 +102,14 @@
          width="50"
          title="Google Cloud" />
   </a>
+  
+  <!-- Kubernetes -->
+  <a href="https://www.codechef.com/users/shrutiiiyet" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Devops/kubernetes.svg"
+      width="50" 
+      title="Kubernetes" style="margin-left:8px;"/>
+  </a>
+  
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/docs" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
@@ -129,13 +137,6 @@
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/leet-code.svg"
      width="40" 
      title="Leetcode"/>
-  </a>
-
-  <!-- Kubernetes -->
-  <a href="https://www.codechef.com/users/shrutiiiyet" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Devops/kubernetes.svg"
-      width="50" 
-      title="Kubernetes" style="margin-left:8px;"/>
   </a>
 
  <!-- CodeChef -->
