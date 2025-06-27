@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shrutiii</h1>
 <h3 align="center">Full-Stack | DevOps | Tech Explorer</h3>
 
----
+
+
 
 ### Tools and Frameworks:
 <p align="center">
@@ -116,6 +117,7 @@
 
 ### 📫 Let's Connect!
 <!-- LinkedIn -->
+<p>
   <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" 
          width="50" 
@@ -133,14 +135,8 @@
   <a href="https://www.codechef.com/users/shrutiiiyet" target="_blank">
     <img src="https://tse1.mm.bing.net/th/id/OIP.yv0LzapdKF10tMAx7MpRQQAAAA?pid=Api&P=0&h=180" width="50" title="CodeChef" style="margin-left:8px;"/>
   </a>
+</p>
 
- <!-- Discord -->
-  <a href="https://www.codechef.com/users/shrutiiiyet" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/discord.svg" 
-      width="50" 
-      title="CodeChef" 
-      style="margin-left:8px;"/>
-  </a>
 ---
 
 > *“Learning never exhausts the mind.”* 🚀
