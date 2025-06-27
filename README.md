@@ -124,19 +124,15 @@
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/leetcode.svg" 
          alt="LeetCode" 
          width="50" 
          title="LeetCode" />
   </a>
 
-   <!-- CodeChef -->
+ <!-- CodeChef -->
   <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codechef&theme=light" 
-         alt="CodeChef" 
-         width="70" 
-         title="CodeChef" 
-         style="background-color: white; border-radius: 8px; padding: 4px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/CodeChef_Logo.svg" width="60" title="CodeChef" style="margin-left:8px;"/>
   </a>
 
 ---
