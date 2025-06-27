@@ -27,12 +27,16 @@
   </a>
   <!-- Next.js -->
   <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" 
+         alt="Next.js" 
+         width="60" 
+         title="Next.js" 
+         style="background-color: white; border-radius: 8px; padding: 4px;" />
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/docs" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" 
-         alt="Tailwind CSS Logo" 
+         alt="Tailwind CSS" 
          width="60" 
          title="Tailwind CSS" />
   </a>
@@ -42,7 +46,10 @@
   </a>
   <!-- Express.js -->
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" title="Express.js"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" 
+         alt="Express.js" 
+         width="60" 
+         title="Express.js" />
   </a>
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/docs/" target="_blank">
@@ -62,7 +69,10 @@
   </a>
   <!-- GitHub -->
   <a href="https://docs.github.com/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" 
+         alt="GitHub" 
+         width="60" 
+         title="GitHub" />
   </a>
   <!-- Vercel -->
   <a href="https://vercel.com/docs" target="_blank">
