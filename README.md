@@ -123,14 +123,14 @@
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-   <img src="https://miro.medium.com/max/2400/1*IC0JXUE3UEAfDfQnFyGtGA.jpeg"
+  <a href="https://leetcode.com/u/shrutiiiii03/" target="_blank">
+   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/leet-code.svg"
      width="50" 
      title="Leetcode"/>
   </a>
 
  <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
+  <a href="https://www.codechef.com/users/shrutiiiyet" target="_blank">
     <img src="https://tse1.mm.bing.net/th/id/OIP.yv0LzapdKF10tMAx7MpRQQAAAA?pid=Api&P=0&h=180" width="50" title="CodeChef" style="margin-left:8px;"/>
   </a>
 
