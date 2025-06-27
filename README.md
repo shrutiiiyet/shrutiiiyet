@@ -31,7 +31,10 @@
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/docs" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" title="Tailwind CSS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" 
+         alt="Tailwind CSS" 
+         width="60" 
+         title="Tailwind CSS Docs" />
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/en/docs" target="_blank">
