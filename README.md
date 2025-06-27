@@ -125,7 +125,7 @@
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/shrutiiiii03/" target="_blank">
    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/leet-code.svg"
-     width="50" 
+     width="40" 
      title="Leetcode"/>
   </a>
 
