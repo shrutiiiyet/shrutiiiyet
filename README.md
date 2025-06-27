@@ -134,6 +134,13 @@
     <img src="https://tse1.mm.bing.net/th/id/OIP.yv0LzapdKF10tMAx7MpRQQAAAA?pid=Api&P=0&h=180" width="50" title="CodeChef" style="margin-left:8px;"/>
   </a>
 
+ <!-- Discord -->
+  <a href="https://www.codechef.com/users/shrutiiiyet" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/discord.svg" 
+      width="50" 
+      title="CodeChef" 
+      style="margin-left:8px;"/>
+  </a>
 ---
 
 > *“Learning never exhausts the mind.”* 🚀
