@@ -3,8 +3,8 @@
 
 ---
 
-<h3>Tools and Technologies</h3>
-<p>
+###Tools and Technologies
+<p align="center">
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
@@ -71,7 +71,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git"/>
   </a>
 </p>
-<p>
+<p align="center">
   <!-- GitHub -->
    <a href="https://github.com/" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
