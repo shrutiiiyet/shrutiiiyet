@@ -115,9 +115,29 @@
 
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=web&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         width="50" 
+         title="LinkedIn" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+         alt="LeetCode" 
+         width="50" 
+         title="LeetCode" />
+  </a>
+
+   <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" 
+         alt="CodeChef" 
+         width="50" 
+         title="CodeChef" 
+         style="background-color: white; border-radius: 8px; padding: 4px;" />
+  </a>
 
 ---
 
