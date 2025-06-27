@@ -124,14 +124,14 @@
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-   <img src="https://tse4.mm.bing.net/th/id/OIP.pcdr_uvbOn6gALKGL5AD0QHaHa?pid=Api&P=0&h=180"
-     width="60" 
+   <img src="https://miro.medium.com/max/2400/1*IC0JXUE3UEAfDfQnFyGtGA.jpeg"
+     width="50" 
      title="Leetcode"/>
   </a>
 
  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/CodeChef_Logo.svg" width="60" title="CodeChef" style="margin-left:8px;"/>
+    <img src="https://tse1.mm.bing.net/th/id/OIP.yv0LzapdKF10tMAx7MpRQQAAAA?pid=Api&P=0&h=180" width="50" title="CodeChef" style="margin-left:8px;"/>
   </a>
 
 ---
