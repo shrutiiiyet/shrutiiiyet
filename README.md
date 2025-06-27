@@ -41,7 +41,7 @@
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/en/docs" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
          alt="Node.js"
          width="50"
          title="Node.js" />
@@ -124,7 +124,7 @@
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/leetcode.svg" 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
          alt="LeetCode" 
          width="50" 
          title="LeetCode" />
