@@ -39,8 +39,6 @@
          width="60" 
          title="Tailwind CSS" />
   </a>
-</p>
-<p align="center">
   <!-- Node.js -->
   <a href="https://nodejs.org/en/docs" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
