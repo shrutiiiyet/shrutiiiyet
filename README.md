@@ -26,11 +26,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React"/>
   </a>
   <!-- Next.js -->
-  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" 
-         alt="Next.js" 
-         width="60" 
-         title="Next.js" 
-         style="border-radius: 8px;" />
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://raw.githubusercontent.com/nextui-org/nextui/main/apps/docs/public/favicon/favicon.ico"
+         alt="Next.js"
+         width="60"
+         title="Next.js"
+         style="border-radius: 8px; background-color: white; padding: 4px;" />
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/docs" target="_blank">
@@ -45,10 +46,10 @@
   </a>
   <!-- Express.js -->
  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" 
-         alt="Express.js" 
-         width="80" 
-         title="Express.js" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
+         alt="Express.js"
+         width="100"
+         title="Express.js"
          style="background-color: white; padding: 6px; border-radius: 6px;" />
   </a>
   <!-- MongoDB -->
