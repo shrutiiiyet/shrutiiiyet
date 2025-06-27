@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrutiii</h1>
 <h3 align="center">Full-Stack | DevOps | Tech Explorer</h3>
 
-
+<br>
 
 
 ### Tools and Frameworks:
@@ -120,7 +120,7 @@
 </p>
 
 
----
+<br>
 
 
 ### 📫 Let's Connect!
@@ -145,7 +145,9 @@
   </a>
 </p>
 
+<br>
 ---
+<br>
 
 > *“Learning never exhausts the mind.”* 🚀
 
