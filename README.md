@@ -124,7 +124,7 @@
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="<?xml version="1.0" encoding="UTF-8"?>
+   <?xml version="1.0" encoding="UTF-8"?>
 <svg width="94px" height="111px" viewBox="0 0 94 111" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
     <title>1_black</title>
@@ -138,10 +138,7 @@
             </g>
         </g>
     </g>
-</svg>" 
-         alt="LeetCode" 
-         width="50" 
-         title="LeetCode" />
+</svg>
   </a>
 
  <!-- CodeChef -->
