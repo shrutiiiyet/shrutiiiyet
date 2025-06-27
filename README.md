@@ -10,15 +10,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruti-jadhav&show_icons=true&theme=radical" alt="Shruti's GitHub stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=shruti-jadhav&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link-here)
@@ -27,5 +18,5 @@
 
 ---
 
-> *“Striving to build impactful tech while mastering the art of clean, scalable systems.”* 🚀
+> *“Learning never exhausts the mind.”* 🚀
 
