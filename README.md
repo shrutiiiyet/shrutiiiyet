@@ -120,7 +120,7 @@
 
   <!-- Bash -->
   <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Devops/kubernetes.svg"
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Devops/bash.svg"
          alt="Bash"
          width="50"
          title="Bash" />
