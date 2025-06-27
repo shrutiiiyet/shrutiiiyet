@@ -10,6 +10,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrutiiiyet&show_icons=true&theme=radical" alt="Shruti's GitHub stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=shruti&theme=radical" alt="GitHub Streak" />
 </p>
