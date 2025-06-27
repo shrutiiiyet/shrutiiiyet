@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrutiii</h1>
-<br>
-<br>
-<br>
+<h3 align="center">Full-Stack | DevOps | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Building+real-time+scalable+apps;Clean+code,+clean+architecture+%F0%9F%92%BB;Frontend+finesse.+Backend+brains.;Learning+DevOps+%2B+System+Design" />
