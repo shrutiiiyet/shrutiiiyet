@@ -120,12 +120,9 @@
 </p>
 
 
-<br>
-
-
 ### 📫 Let's Connect!
 <!-- LinkedIn -->
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" 
          width="50" 
@@ -145,9 +142,5 @@
   </a>
 </p>
 
-<br>
-<br>
-<br>
-
-> *“Learning never exhausts the mind.”* 🚀
+*“Learning never exhausts the mind.”* 🚀
 
