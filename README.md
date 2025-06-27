@@ -117,14 +117,14 @@
 ### 📫 Let's Connect!
 <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" 
          width="50" 
          title="LinkedIn" />
   </a>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_white.png" 
          alt="LeetCode" 
          width="50" 
          title="LeetCode" />
@@ -132,9 +132,9 @@
 
    <!-- CodeChef -->
   <a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" 
+    <img src="https://skillicons.dev/icons?i=codechef&theme=dark" 
          alt="CodeChef" 
-         width="50" 
+         width="70" 
          title="CodeChef" 
          style="background-color: white; border-radius: 8px; padding: 4px;" />
   </a>
