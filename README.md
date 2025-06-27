@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrutiii</h1>
-<h3 align="center">Full-Stack | DevOps | Tech Explorer</h3>
+<h3 align="center">Full-Stack | DevOps | Problem Solver</h3>
 
 <br>
 
