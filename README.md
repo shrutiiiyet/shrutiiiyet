@@ -13,13 +13,12 @@
   <a href="https://www.typescriptlang.org/docs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
   </a>
-  <!-- C++ -->
-  <a href="https://cplusplus.com/doc/tutorial/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
-  </a>
-  <!-- Python -->
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
+   <!-- Java -->
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+         alt="Java"
+         width="50"
+         title="Java" />
   </a>
   <!-- React -->
   <a href="https://react.dev/" target="_blank">
@@ -42,7 +41,10 @@
   </a>
   <!-- Node.js -->
   <a href="https://nodejs.org/en/docs" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+         alt="Node.js"
+         width="50"
+         title="Node.js" />
   </a>
   <!-- Express.js -->
  <a href="https://expressjs.com/" target="_blank">
@@ -76,9 +78,33 @@
          title="GitHub" 
          style="border-radius: 50%;" />
   </a>
-  <!-- Vercel -->
-  <a href="https://vercel.com/docs" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" title="Vercel"/>
+   <!-- Docker -->
+  <a href="https://www.docker.com/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+         alt="Docker"
+         width="50"
+         title="Docker" />
+  </a>
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+         alt="Postman"
+         width="50"
+         title="Postman" />
+  </a>
+  <!-- Cloud (generic cloud icon - can replace with AWS/GCP later) -->
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+         alt="Cloud"
+         width="50"
+         title="Google Cloud" />
+  </a>
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/docs" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+         alt="VS Code"
+         width="50"
+         title="VS Code" />
   </a>
 </p>
 
