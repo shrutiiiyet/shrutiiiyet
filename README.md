@@ -4,14 +4,69 @@
 ---
 
 <h3>Languages and Tools</h3>
-<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-         alt="JavaScript Logo" 
-         width="60" 
-         height="60" 
-         style="margin-right: 10px;" />
+<p align="center">
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
   </a>
- <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <!-- Backend --> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <!-- Database --> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <!-- Tools & DevOps --> <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> </p>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript"/>
+  </a>
+  <!-- C++ -->
+  <a href="https://cplusplus.com/doc/tutorial/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
+  </a>
+  <!-- Python -->
+  <a href="https://docs.python.org/3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
+  </a>
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React"/>
+  </a>
+  <!-- Next.js -->
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" title="Next.js"/>
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" title="Tailwind CSS"/>
+  </a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org/en/docs" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+  </a>
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" title="Express.js"/>
+  </a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+  </a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
+  </a>
+  <!-- Prisma -->
+  <a href="https://www.prisma.io/docs" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="50" title="Prisma"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://docs.github.com/en" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub"/>
+  </a>
+  <!-- Vercel -->
+  <a href="https://vercel.com/docs" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="50" title="Vercel"/>
+  </a>
+</p>
+
 
 ---
 
