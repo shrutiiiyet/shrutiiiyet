@@ -109,14 +109,6 @@
          width="50"
          title="VS Code" />
   </a>
-
-    <!-- Kubernetes -->
-  <a href="https://kubernetes.io/docs" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Devops/kubernetes.svg"
-         alt="Kubernetes"
-         width="50"
-         title="Kubernetes" />
-  </a>
 </p>
 
 
