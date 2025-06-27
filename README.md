@@ -3,7 +3,7 @@
 
 ---
 
-###Tools and Technologies
+### 📫 Tools and Frameworks:
 <p align="center">
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
