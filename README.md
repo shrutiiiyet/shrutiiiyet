@@ -125,7 +125,7 @@
   <!-- LeetCode -->
   <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
    <img src="https://tse4.mm.bing.net/th/id/OIP.pcdr_uvbOn6gALKGL5AD0QHaHa?pid=Api&P=0&h=180"
-     width="50" 
+     width="60" 
      title="Leetcode"/>
   </a>
 
