@@ -142,5 +142,5 @@
   </a>
 </p>
 
-*“Learning never exhausts the mind.”* 🚀
+> *“Learning never exhausts the mind.”* 🚀
 
