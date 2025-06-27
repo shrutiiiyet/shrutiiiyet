@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7b5d953-093b-463a-b827-258a78276680)<h1 align="center">Hi 👋, I'm Shrutiii</h1>
+<h1 align="center">Hi 👋, I'm Shrutiii</h1>
 <h3 align="center">Full-Stack | DevOps | Tech Explorer</h3>
 
 ---
