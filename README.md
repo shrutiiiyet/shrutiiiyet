@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shrutiii</h1>
+![image](https://github.com/user-attachments/assets/a7b5d953-093b-463a-b827-258a78276680)<h1 align="center">Hi 👋, I'm Shrutiii</h1>
 <h3 align="center">Full-Stack | DevOps | Tech Explorer</h3>
 
 ---
 
-<h3>Languages and Tools</h3>
+<h3>Tools and Technologies</h3>
 <p align="center">
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
