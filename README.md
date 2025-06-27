@@ -39,6 +39,8 @@
          width="60" 
          title="Tailwind CSS" />
   </a>
+</p>
+<p align="center">
   <!-- Node.js -->
   <a href="https://nodejs.org/en/docs" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
@@ -70,6 +72,8 @@
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git"/>
   </a>
+</p>
+<p align="center">
   <!-- GitHub -->
    <a href="https://github.com/" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
