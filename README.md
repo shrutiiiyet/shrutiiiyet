@@ -123,7 +123,7 @@
 ### 📫 Let's Connect!
 <!-- LinkedIn -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/shruti-jadhav-892164277/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" 
          width="50" 
          title="LinkedIn" />
