@@ -26,12 +26,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React"/>
   </a>
   <!-- Next.js -->
-  <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" 
+  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" 
          alt="Next.js" 
          width="60" 
          title="Next.js" 
-         style="background-color: white; border-radius: 8px; padding: 4px;" />
+         style="border-radius: 8px;" />
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com/docs" target="_blank">
@@ -45,11 +44,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
   </a>
   <!-- Express.js -->
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" 
+ <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" 
          alt="Express.js" 
-         width="60" 
-         title="Express.js" />
+         width="80" 
+         title="Express.js" 
+         style="background-color: white; padding: 6px; border-radius: 6px;" />
   </a>
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/docs/" target="_blank">
@@ -68,11 +68,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git"/>
   </a>
   <!-- GitHub -->
-  <a href="https://docs.github.com/en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" 
+   <a href="https://github.com/" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
          alt="GitHub" 
          width="60" 
-         title="GitHub" />
+         title="GitHub" 
+         style="border-radius: 50%;" />
   </a>
   <!-- Vercel -->
   <a href="https://vercel.com/docs" target="_blank">
