@@ -48,26 +48,13 @@
          title="Node.js" />
   </a>
   <!-- Express.js -->
-<!--  <a href="https://expressjs.com/" target="_blank">
+ <a href="https://expressjs.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
          alt="Express.js"
          width="100"
          title="Express.js"
          style="background-color: white; padding: 6px; border-radius: 6px;" />
-  </a> -->
-
-<!-- Express.js -->
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://tse4.mm.bing.net/th/id/OIP.YKISdgRAdZAuXSPjPslqIQHaHa?pid=Api&P=0&h=180"
-       alt="Express.js"
-       width="60"
-       title="Express.js"
-       style="
-         border-radius: 50%;
-         mask-image: radial-gradient(circle, white 60%, transparent 61%);
-         background-color: white;
-       "/>
-</a>
+  </a>
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/docs/" target="_blank">
