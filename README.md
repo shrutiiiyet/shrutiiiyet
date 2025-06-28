@@ -47,6 +47,7 @@
          width="50"
          title="Node.js" />
   </a>
+  
   <!-- Express.js -->
  <a href="https://expressjs.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
@@ -55,6 +56,15 @@
          title="Express.js"
          style="background-color: white; padding: 6px; border-radius: 6px;" />
   </a>
+
+  <!-- Express.js -->
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+       alt="Express.js"
+       width="100"
+       title="Express.js"
+       style="padding: 4px; background-color: white; border-radius: 8px;" />
+</a>
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/docs/" target="_blank">
