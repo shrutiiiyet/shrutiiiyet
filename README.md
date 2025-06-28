@@ -48,14 +48,23 @@
          title="Node.js" />
   </a>
   <!-- Express.js -->
- <a href="https://expressjs.com/" target="_blank">
-<!--     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" -->
-   <img src="https://tse4.mm.bing.net/th/id/OIP.YKISdgRAdZAuXSPjPslqIQHaHa?pid=Api&P=0&h=180"
+<!--  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
          alt="Express.js"
          width="100"
          title="Express.js"
          style="background-color: white; padding: 6px; border-radius: 6px;" />
-  </a>
+  </a> -->
+
+  <!-- Express.js -->
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://tse4.mm.bing.net/th/id/OIP.YKISdgRAdZAuXSPjPslqIQHaHa?pid=Api&P=0&h=180"
+       alt="Express.js"
+       width="60"
+       title="Express.js"
+       style="background-color: white; padding: 6px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
+</a>
+
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
