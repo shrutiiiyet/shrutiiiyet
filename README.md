@@ -57,15 +57,6 @@
          style="background-color: white; padding: 6px; border-radius: 6px;" />
   </a>
 
-<!-- Express.js (white version for dark mode) -->
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/ShrutiJadhav-code/assets/main/express-white.png"
-       alt="Express.js"
-       width="90"
-       title="Express.js"
-       style="background-color: transparent; border-radius: 8px;" />
-</a>
-
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
