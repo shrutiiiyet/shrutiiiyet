@@ -58,12 +58,16 @@
 
 <!-- Express.js -->
 <a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+  <img src="https://tse4.mm.bing.net/th/id/OIP.YKISdgRAdZAuXSPjPslqIQHaHa?pid=Api&P=0&h=180"
        alt="Express.js"
        width="60"
        title="Express.js"
-       style="padding: 6px; border-radius: 50%; background-color: transparent;" />
-</>
+       style="
+         border-radius: 50%;
+         mask-image: radial-gradient(circle, white 60%, transparent 61%);
+         background-color: white;
+       "/>
+</a>
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/docs/" target="_blank">
