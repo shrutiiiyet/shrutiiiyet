@@ -56,14 +56,14 @@
          style="background-color: white; padding: 6px; border-radius: 6px;" />
   </a> -->
 
-  <!-- Express.js -->
+<!-- Express.js -->
 <a href="https://expressjs.com/" target="_blank">
-  <img src="https://tse4.mm.bing.net/th/id/OIP.YKISdgRAdZAuXSPjPslqIQHaHa?pid=Api&P=0&h=180"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
        alt="Express.js"
        width="60"
        title="Express.js"
-       style="background-color: white; padding: 6px; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.15);" />
-</a>
+       style="padding: 6px; border-radius: 50%; background-color: transparent;" />
+</>
 
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/docs/" target="_blank">
