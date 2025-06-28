@@ -57,13 +57,13 @@
          style="background-color: white; padding: 6px; border-radius: 6px;" />
   </a>
 
-  <!-- Express.js -->
+<!-- Express.js (white version for dark mode) -->
 <a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+  <img src="https://raw.githubusercontent.com/ShrutiJadhav-code/assets/main/express-white.png"
        alt="Express.js"
-       width="100"
+       width="90"
        title="Express.js"
-       style="padding: 4px; background-color: white; border-radius: 8px;" />
+       style="background-color: transparent; border-radius: 8px;" />
 </a>
 
   <!-- MongoDB -->
