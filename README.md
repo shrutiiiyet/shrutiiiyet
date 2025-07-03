@@ -139,9 +139,9 @@
   </a>
 
  <!-- CodeChef -->
-<!--  <a href="https://www.codechef.com/users/shrutiiiyet" target="_blank">
+  <a href="https://www.codechef.com/users/shrutiiiyet" target="_blank">
      <img src="https://tse1.mm.bing.net/th/id/OIP.yv0LzapdKF10tMAx7MpRQQAAAA?pid=Api&P=0&h=180" width="50" title="CodeChef" style="margin-left:8px;"/>
-  </a> -->
+  </a> 
 </p>
 
 > *“Learning never exhausts the mind.”* 🚀
