@@ -124,8 +124,8 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutiiiyet&theme=radical" alt="Shruti's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiiyet&layout=compact&theme=radical" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutiiiyet&theme=tokyonight" alt="Shruti's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiiyet&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 ### 📫 Let's Connect!
