@@ -128,6 +128,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shrutiiiyet&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiiyet&layout=compact&theme=radical" height="165" />
 </p>
+![Snake animation](https://github.com/shrutiiiyet/shrutiiiyet/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 📫 Let's Connect!
