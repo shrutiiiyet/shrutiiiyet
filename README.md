@@ -130,7 +130,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shrutiiiyet&theme=radical" height="165" />
+  <img src="https://streak-stats.demolab.com?username=shrutiiiyet&theme=radical" height="165" />
 </p>
 
 <p align="center">
