@@ -125,12 +125,8 @@
 ### Github Insights📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutiiiyet&show_icons=true&theme=tokyo_night" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiiyet&layout=compact&theme=tokyo_night" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shrutiiiyet&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutiiiyet&show_icons=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiiyet&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 
