@@ -129,20 +129,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiiyet&layout=compact&theme=radical" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?username=shrutiiiyet&theme=radical" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutiiiyet&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrutiiiyet&theme=onedark" />
-</p>
-
-
-</p>
 
 ### 📫 Let's Connect!
 <!-- LinkedIn -->
