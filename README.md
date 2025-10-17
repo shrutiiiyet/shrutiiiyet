@@ -121,6 +121,7 @@
   </a>
 </p>
 
+<br/>
   
 ### Github Insights📊
 
@@ -128,6 +129,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shrutiiiyet&show_icons=true&theme=github_dark" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiiyet&layout=compact&theme=github_dark" height="165" />
 </p>
+
+<br/>
 
 
 ### 📫 Let's Connect!
