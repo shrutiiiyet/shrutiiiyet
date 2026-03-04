@@ -107,7 +107,7 @@
   
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/docs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Devops/kubernetes.svg"
+    <img src="[https://d33wubrfki0l68.cloudfront.net/f84b022686eac86ba972feae8dabf6af8d1dc263/de78f/images/nav_logo.svg]"
       width="50" 
       title="Kubernetes" style="margin-left:8px;"/>
   </a>
@@ -119,15 +119,6 @@
          width="50"
          title="VS Code" />
   </a>
-</p>
-
-<br/>
-  
-### Github Insights📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutiiiyet&show_icons=true&theme=github_dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiiiyet&layout=compact&theme=github_dark" height="165" />
 </p>
 
 <br/>
