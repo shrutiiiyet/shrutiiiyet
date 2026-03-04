@@ -107,7 +107,7 @@
   
   <!-- Kubernetes -->
   <a href="https://kubernetes.io/docs/" target="_blank">
-    <img src="[https://d33wubrfki0l68.cloudfront.net/f84b022686eac86ba972feae8dabf6af8d1dc263/de78f/images/nav_logo.svg]"
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Devops/kubernetes.svg"
       width="50" 
       title="Kubernetes" style="margin-left:8px;"/>
   </a>
@@ -135,7 +135,7 @@
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/shrutiiiii03/" target="_blank">
-   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/leet-code.svg"
+   <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/leet-code.svg"
      width="40" 
      title="Leetcode"/>
   </a>
