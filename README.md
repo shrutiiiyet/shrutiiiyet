@@ -119,6 +119,39 @@
          width="50"
          title="VS Code" />
   </a>
+
+   <!-- Redis -->
+  <a href="https://redis.io/docs/latest/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/Database/redis.svg"
+         alt="Redis"
+         width="50"
+         title="Redis" />
+  </a>
+
+   <!-- Grafana -->
+  <a href="https://grafana.com/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/DataVisualization/grafana.svg"
+         alt="Grafana"
+         width="50"
+         title="Grafana" />
+  </a>
+
+  <!-- Nginx -->
+  <a href="https://nginx.org/en/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/BackendDevelopment/nginx.svg"
+         alt="Nginx"
+         width="50"
+         title="Nginx" />
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.kernel.org/doc/html/latest/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/Other/linux.svg"
+         alt="Linux"
+         width="50"
+         title="Linux" />
+  </a>
+  
 </p>
 
 <br/>
